@@ -1117,6 +1117,7 @@ header {
             overflow: hidden;
             position: relative;
             margin: 0 auto;
+            box-shadow: 0px 6px 15px 0px rgb(0 0 0 / 20%);
 
             img {
                 width: 100%;
@@ -1570,6 +1571,7 @@ header {
                 width: 6.25rem;
                 height: 6.25rem;
                 border: 0.063rem solid transparent;
+
             }
         }
     }
